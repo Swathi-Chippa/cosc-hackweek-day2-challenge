@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Chippa Swathi
+- Roll Number: 160124748306
+- Section: CSM-1
+- GitHub Username: Swathi-Chippa
